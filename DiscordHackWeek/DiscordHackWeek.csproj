@@ -17,7 +17,7 @@
     <PackageReference Include="NLog" Version="4.6.5" />
     <PackageReference Include="NLog.Config" Version="4.6.5" />
     <PackageReference Include="NLog.Extensions.Logging" Version="1.5.1" />
-    <PackageReference Include="Npgsql" Version="4.0.7" />
+    <PackageReference Include="Npgsql" Version="4.0.14" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.2.4" />
     <PackageReference Include="Qmmands" Version="3.0.0-nightly-00195" />
     <PackageReference Include="SixLabors.Core" Version="1.0.0-beta0007" />
